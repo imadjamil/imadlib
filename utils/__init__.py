@@ -1,1 +1,1 @@
-name="AwsomeLibrary"
+name = "AwsomeLibrary"
